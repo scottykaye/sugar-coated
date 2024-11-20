@@ -1,11 +1,11 @@
-# `pkg-a`
+# `sugar-coated`
 
 TODO
 
 ## Getting Started:
 
 ```bash
-bun add pkg-a
+bun add sugar-coated
 ```
 
 ...
