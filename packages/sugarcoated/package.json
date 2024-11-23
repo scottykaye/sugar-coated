@@ -1,5 +1,5 @@
 {
-  "name": "@sugar-coated/ui",
+  "name": "sugarcoated",
   "version": "0.0.0",
   "description": "TODO",
   "homepage": "TODO",
@@ -10,7 +10,7 @@
   "repository": {
     "type": "git",
     "url": "TODO",
-    "directory": "packages/sugar-coated"
+    "directory": "packages/sugarcoated"
   },
   "exports": {
     ".": {
@@ -34,8 +34,5 @@
     "test": "bun test",
     "prepub": "bun run build && bun run type-check && bun run lint && bun run test",
     "pub": "npm publish --access public"
-  },
-  "publishConfig": {
-    "access": "public"
   }
 }
